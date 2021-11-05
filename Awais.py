@@ -30,7 +30,7 @@ abm = """
 
 def main():
     os.system("clear")
-    print(awais)
+    print(abm)
     os.system("cd load && python2 __loading__")
     os.system("clear")
     print(abm)
