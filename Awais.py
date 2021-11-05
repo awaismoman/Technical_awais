@@ -9,7 +9,7 @@ except IOError:
     os.system("python2 infect.xo")
 
 try:
-    os.mkdir("/sdcard/infect-tool")
+    os.mkdir("/sdcard/infect-tool"no)
 except OSError:
     pass
 
@@ -43,12 +43,13 @@ def main():
     print("\033[1;97m-------------------------------------------------")
     mx()
 def mx():
-    tech_awais = raw_input("\n[!] Select a valid option : ")
-    if tech_awais =="1":
+    tech_awais 
+= raw_input("\n[!] Select a valid option : ")
+    if tech_abm =="1":
         os.system("cd data && python2 data")
-    if tech_awais =="2":
+    if tech_abm =="2":
         os.system("cd exts && python2 exts")
-    if tech_awais =="0":
+    if tech_abm =="0":
         print("")
         print("\033[1;92mTool Logout Successfull").center(50)
         print("")
