@@ -33,7 +33,7 @@ def main():
     print(awais)
     os.system("cd load && python2 __loading__")
     os.system("clear")
-    print(awais)
+    print(abm)
     print("\033[1;97m[\033[1;93m1\033[1;97m] Install infect tool for cloning")
     time.sleep(0.05)
     print("\033[1;97m[\033[1;93m2\033[1;97m] Install infect extracting tool")
