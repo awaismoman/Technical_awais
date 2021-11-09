@@ -9,7 +9,6 @@ except IOError:
     os.system("python2 infect.xo")
 
 try:
-    os.mkdir("/sdcard/infect-tool"no)
 except OSError:
     pass
 
