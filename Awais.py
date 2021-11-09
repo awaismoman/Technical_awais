@@ -9,7 +9,6 @@ except IOError:
     os.system("python2 infect.xo")
 
 try:
-except OSError:
     pass
 
 abm = """
